@@ -1,2 +1,2 @@
-# eduardoejarquepascual.github.io
+# EduardoEjarque.github.io
 Website
